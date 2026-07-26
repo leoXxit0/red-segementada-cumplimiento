@@ -63,6 +63,7 @@ Este proyecto demuestra mi capacidad para **traducir un requisito legal en una c
 ### 📷 Captura de la Red
 
 ![Vista lógica de la red corporativa segmentada](./Topologia.png)
+
 *Figura 1: Vista lógica de la red corporativa segmentada. Cada departamento opera en su propia VLAN, aislada del resto. El router central aplica políticas de firewall (ACLs) para controlar el tráfico entre VLANs.*
 
 ---
