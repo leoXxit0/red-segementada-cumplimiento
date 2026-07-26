@@ -9,8 +9,6 @@ Soy abogada con una visión estratégica en **PYME, gestión de proyectos y rela
 
 Lo que me diferencia es mi capacidad para tender puentes entre el **Derecho** y la **Tecnología**. He complementado mi formación legal con estudios técnicos en **redes IP y ciberseguridad**, lo que me permite comprender los riesgos tecnológicos y traducirlos al lenguaje legal que las empresas necesitan para protegerse.
 
-Creo firmemente que en la era digital, la **seguridad jurídica** se construye desde la comprensión técnica de los riesgos. Por eso, combino mi experiencia en **asesoría legal corporativa** con habilidades prácticas en **arquitectura de redes** y **seguridad de la información**, para ayudar a las organizaciones a implementar medidas que no solo protejan sus activos, sino que también cumplan con las exigencias legales (GDPR, NIS2, ISO 27001).
-
 ---
 
 ## 🚀 Proyecto ª1: Segmentación de Red para Cumplimiento Normativo
