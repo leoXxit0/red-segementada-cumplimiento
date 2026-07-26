@@ -22,6 +22,7 @@ Utilizando **Cisco Packet Tracer**, diseñé y configuré una red local (LAN) pa
 | **Servidores Web** | VLAN 30 | 192.168.30.0/24 | Pública/Interna (Solo servicios web) |
 | **Recursos Humanos** | VLAN 40 | 192.168.40.0/24 | Muy Alta Confidencialidad (Nóminas, datos personales) |
 
+
 **Políticas de Seguridad Aplicadas (Firewall ACL 110):**
 
 | Origen | Destino | Acción | Justificación |
