@@ -1,4 +1,4 @@
-# 👩‍⚖️ ELEONOR
+# ELEONOR
 ### *Abogada · Ciberseguridad · Cumplimiento Normativo*
 
 ---
