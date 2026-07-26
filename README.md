@@ -114,7 +114,3 @@ Este proyecto demuestra mi capacidad para **traducir un requisito legal en una c
 ## 📬 Contacto
 
 📧 [elarhuaa@gmail.com](mailto:elarhuaa@gmail.com)
-
----
-
-*"La seguridad digital no es solo un problema de ingenieros; es un pilar fundamental del Estado de Derecho en el siglo XXI."*
