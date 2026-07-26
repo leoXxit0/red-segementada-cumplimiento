@@ -70,10 +70,10 @@ Este proyecto demuestra mi capacidad para **traducir un requisito legal en una c
 
 ### 📄 Documentación
 
-📎 [Descargar Informe Ejecutivo en PDF](./informe-Ciberseguridad.docx)  
+📎 [Descargar Informe Ejecutivo en PDF](./Informe-Ciberseguridad.docx)  
 *(Incluye análisis de riesgos, implicaciones legales y referencias normativas).*
 
-📎 [Descargar Archivo de Simulación (.pkt)](./Proyecto-Ciberseguridad.pkt)  
+📎 [Descargar Archivo de Simulación (.pkt)](./Proyecto-ciberseguridad.pkt)  
 *(Para visualizar la configuración en Cisco Packet Tracer).*
 
 ---
