@@ -1,4 +1,4 @@
-# Proyecto °1: Segmentación de Red para Cumplimiento Normativo
+# Proyecto: Segmentación de Red para Cumplimiento Normativo 📖
 
 ## por: Eleonor (@leonXxit0)
 
