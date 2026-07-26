@@ -68,7 +68,7 @@ Este proyecto demuestra mi capacidad para **traducir un requisito legal en una c
 
 ### 📄 Documentación
 
-📎 [Descargar Informe Ejecutivo en DOCX  
+📎 [Descargar Informe Ejecutivo en DOCX]  
 *(Incluye análisis de riesgos, implicaciones legales y referencias normativas).*
 
 📎 [Descargar Archivo de Simulación (.pkt)](./Proyecto-ciberseguridad.pkt)  
