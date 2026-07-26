@@ -1,5 +1,4 @@
-# ELEONOR
-### *Abogada · Ciberseguridad · Cumplimiento Normativo*
+# Eleonor A. H.
 
 ---
 
@@ -11,7 +10,7 @@ Lo que me diferencia es mi capacidad para tender puentes entre el **Derecho** y 
 
 ---
 
-## Proyecto ª1: Segmentación de Red para Cumplimiento Normativo
+## Proyecto °1: Segmentación de Red para Cumplimiento Normativo
 
 > **Objetivo:** Diseñar e implementar una arquitectura de red corporativa segura, aplicando el principio de **"Mínimo Privilegio"** y **"Privacidad por Diseño"**, alineada con los estándares internacionales de ciberseguridad y protección de datos.
 
@@ -58,7 +57,7 @@ Este proyecto demuestra mi capacidad para **traducir un requisito legal en una c
 
 ---
 
-### 📷 Captura de la Red
+### 💻 Captura de la Red
 
 ![Vista lógica de la red corporativa segmentada](./Topologia.png)
 
