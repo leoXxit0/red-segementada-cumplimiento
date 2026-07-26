@@ -8,7 +8,9 @@
 
 ---
 
-### 📌 Objetivo: Diseñar e implementar una arquitectura de red corporativa segura, aplicando el principio de **"Mínimo Privilegio"** y **"Privacidad por Diseño"**, alineada con los estándares internacionales de ciberseguridad y protección de datos.
+### 📌 Objetivo:
+
+Diseñar e implementar una arquitectura de red corporativa segura, aplicando el principio de **"Mínimo Privilegio"** y **"Privacidad por Diseño"**, alineada con los estándares internacionales de ciberseguridad y protección de datos.
 
 ### 🔍 ¿Qué hice?
 
