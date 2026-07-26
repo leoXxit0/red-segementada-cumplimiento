@@ -17,7 +17,7 @@ Lo que me diferencia es mi capacidad para tender puentes entre el **Derecho** y 
 
 ### 🔍 ¿Qué hice?
 
-Utilizando **Cisco Packet Tracer**, diseñé y configuré una red local (LAN) para una oficina con múltiples departamentos. Para garantizar la **confidencialidad** de los datos, segmenté el tráfico mediante **VLANs** (redes virtuales) y configuré un **firewall perimetral (ACLs)** que controla quién puede comunicarse con quién dentro de la organización.
+Utilizando **Cisco Packet Tracer**, diseñé y configuré una red local (LAN) para una oficina con 3 departamentos. Para garantizar la **confidencialidad** de los datos, segmenté el tráfico mediante **VLANs** (redes virtuales) y configuré un **firewall perimetral (ACLs)** que controla quién puede comunicarse con quién dentro de la organización.
 
 **Arquitectura de la Red:**
 
