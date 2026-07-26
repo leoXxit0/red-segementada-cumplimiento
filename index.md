@@ -62,17 +62,17 @@ Este proyecto demuestra mi capacidad para **traducir un requisito legal en una c
 
 ### 📷 Captura de la Red
 
-![Vista lógica de la red corporativa segmentada](./imagen-red.png)
+![Vista lógica de la red corporativa segmentada](./Topologia.png)
 *Figura 1: Vista lógica de la red corporativa segmentada. Cada departamento opera en su propia VLAN, aislada del resto. El router central aplica políticas de firewall (ACLs) para controlar el tráfico entre VLANs.*
 
 ---
 
 ### 📄 Documentación
 
-📎 [Descargar Informe Ejecutivo en PDF](./informe-ciberseguridad.pdf)  
+📎 [Descargar Informe Ejecutivo en PDF](./informe-Ciberseguridad.docx)  
 *(Incluye análisis de riesgos, implicaciones legales y referencias normativas).*
 
-📎 [Descargar Archivo de Simulación (.pkt)](./proyecto-ciberseguridad.pkt)  
+📎 [Descargar Archivo de Simulación (.pkt)](./Proyecto-Ciberseguridad.pkt)  
 *(Para visualizar la configuración en Cisco Packet Tracer).*
 
 ---
@@ -103,7 +103,6 @@ Este proyecto demuestra mi capacidad para **traducir un requisito legal en una c
 
 - **ASESORÍA LEGAL CORPORATIVA:** Gestión integral del ciclo de vida del negocio, desde la constitución hasta la operatividad comercial, asegurando el cumplimiento normativo y la protección de activos.
 - **LEGAL FINDER E INTELIGENCIA NORMATIVA:** Monitoreo y análisis exhaustivo de Gacetas Oficiales y boletines legales. Elaboración de resúmenes ejecutivos y opiniones legales sobre tendencias jurídicas actuales.
-- **VALIDACIÓN DE MODELOS DE NEGOCIO:** Aplicación de metodologías para la creación de propuestas valor, asesoría de productos mínimos viables (MVP), asegurando que el modelo de negocio sea escalable antes de su formalización legal.
 - **RECOLECCIÓN Y ANÁLISIS DE DATOS:** Elaboración de formularios de Google, curación de datos a través de Excel/PowerBI, y elaboración de dashboards en Excel/PowerBI.
 - **INVESTIGACIÓN PROFUNDA:** Búsqueda avanzada de información pública con metodología OSINT y Google Search Operators.
 - **ARQUITECTURA DE RED Y CIBERSEGURIDAD:** Comprensión de principios de segmentación de red (VLANs), control de accesos (firewalls/ACLs) y su aplicación para cumplir con normativas de protección de datos y ciberseguridad (GDPR, NIS2, ISO 27001).
@@ -126,9 +125,7 @@ Este proyecto demuestra mi capacidad para **traducir un requisito legal en una c
 
 ## 📬 Contacto
 
-📧 [elarhuaa@gmail.com](mailto:elarhuaa@gmail.com)  
-📱 +58 414 1622858  
-🔗 [LinkedIn](https://linkedin.com/in/tu-perfil) *(Personaliza este enlace)*
+📧 [elarhuaa@gmail.com](mailto:elarhuaa@gmail.com)
 
 ---
 
