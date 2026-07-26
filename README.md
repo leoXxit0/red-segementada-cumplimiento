@@ -2,8 +2,6 @@
 
 ## por: Eleonor (@leonXxit0)
 
----
-
 > **Sobre Mí:** Soy abogada con experiencia en **PYMEs, gestión de proyectos y relaciones públicas**. Mi trayectoria profesional se centra en la consultoría legal, negocios y el cumplimiento normativo de personas jurídicas. Lo que me diferencia es mi capacidad para tender puentes entre el **Derecho** y la **Tecnología**. He complementado mi formación legal con estudios técnicos en **redes IP y ciberseguridad**, lo que me permite comprender los riesgos tecnológicos y traducirlos al lenguaje legal que las empresas necesitan para protegerse.
 
 ---
@@ -112,10 +110,15 @@ Este proyecto demuestra mi capacidad para **traducir un requisito legal en una c
 
 ---
 
-## 📝 Artículos Publicados
+### Artículos Publicados
 
-- *"IA: El Final Boss de la Geopolítica Moderna"*
-- *"La Innovación Legal y la Inteligencia Artificial: ¿Cómo la Transformación Digital puede generar Discriminación Algorítmica y Vigilancia Masiva en el Sector Público?"*
+- **"IA: El Final Boss de la Geopolítica Moderna"**  
+  Análisis de normativa y política exterior de Estados Unidos y China en temas de desarrollo de la inteligencia artificial.  
+  [Leer más](https://chicasenrrii.com/ia-hegemonia-tecnologica-geopolitica/)
+
+- **"La Innovación Legal y la Inteligencia Artificial: ¿Cómo la Transformación Digital Puede Generar Discriminación Algorítmica y Vigilancia Masiva en el Sector Público?"**  
+  La digitalización con IA en el sector público y privado plantea riesgos de discriminación algorítmica y vigilancia masiva. Se aborda la necesidad de regulaciones que equilibren innovación y derechos humanos para una transformación digital justa y segura.  
+  [Ver en ResearchGate](https://www.researchgate.net/publication/390438188_LA_INNOVACION_LEGAL_Y_LA_INTELIGENCIA_ARTIFICIAL_COMO_LA_TRANFORMACION_DIGITAL_PUEDE_GENERAR_DISCRIMINACION_ALGORITMICA_Y_LA_VIGILANCIA_MASIVA_EN_EL_SECTOR_PUBLICO)
 
 ---
 
