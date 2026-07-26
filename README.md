@@ -1,5 +1,4 @@
 # Proyecto: Segmentación de Red para Cumplimiento Normativo 📖
-
 ## por: Eleonor (@leonXxit0)
 
 > **Sobre Mí:** Soy abogada con experiencia en **PYMEs, gestión de proyectos y relaciones públicas**. Mi trayectoria profesional se centra en la consultoría legal, negocios y el cumplimiento normativo de personas jurídicas. Lo que me diferencia es mi capacidad para tender puentes entre el **Derecho** y la **Tecnología**. He complementado mi formación legal con estudios técnicos en **redes IP y ciberseguridad**, lo que me permite comprender los riesgos tecnológicos y traducirlos al lenguaje legal que las empresas necesitan para protegerse.
@@ -82,17 +81,6 @@ Este proyecto demuestra mi capacidad para **traducir un requisito legal en una c
 
 ---
 
-## 💼 Experiencia Profesional
-
-| Periodo | Cargo | Empresa / Institución |
-| :--- | :--- | :--- |
-| **2025 - Actualidad** | Abogada | Corporación EMJ27 |
-| **2024 - 2025** | Abogada Junior | Deloitte |
-| **2024** | Pasante | Ministerio de Relaciones Exteriores de Venezuela |
-| **2023** | Pasante | SENIAT |
-
----
-
 ## 🛠️ Habilidades
 
 - **ASESORÍA LEGAL CORPORATIVA:** Gestión integral del ciclo de vida del negocio, desde la constitución hasta la operatividad comercial, asegurando el cumplimiento normativo y la protección de activos.
@@ -118,7 +106,7 @@ Este proyecto demuestra mi capacidad para **traducir un requisito legal en una c
 
 - **"La Innovación Legal y la Inteligencia Artificial: ¿Cómo la Transformación Digital Puede Generar Discriminación Algorítmica y Vigilancia Masiva en el Sector Público?"**  
   La digitalización con IA en el sector público y privado plantea riesgos de discriminación algorítmica y vigilancia masiva. Se aborda la necesidad de regulaciones que equilibren innovación y derechos humanos para una transformación digital justa y segura.  
-  [Ver en ResearchGate](https://www.researchgate.net/publication/390438188_LA_INNOVACION_LEGAL_Y_LA_INTELIGENCIA_ARTIFICIAL_COMO_LA_TRANFORMACION_DIGITAL_PUEDE_GENERAR_DISCRIMINACION_ALGORITMICA_Y_LA_VIGILANCIA_MASIVA_EN_EL_SECTOR_PUBLICO)
+  [Leer más](https://www.researchgate.net/publication/390438188_LA_INNOVACION_LEGAL_Y_LA_INTELIGENCIA_ARTIFICIAL_COMO_LA_TRANFORMACION_DIGITAL_PUEDE_GENERAR_DISCRIMINACION_ALGORITMICA_Y_LA_VIGILANCIA_MASIVA_EN_EL_SECTOR_PUBLICO)
 
 ---
 
