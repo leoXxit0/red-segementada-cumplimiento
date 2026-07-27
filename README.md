@@ -9,7 +9,7 @@
 
 Diseñar e implementar una arquitectura de red corporativa segura, aplicando el principio de **"Mínimo Privilegio"** y **"Privacidad por Diseño"**, alineada con los estándares internacionales de ciberseguridad y protección de datos.
 
-### 🔍 ¿Qué hice?
+### ¿Qué hice?
 
 Utilizando **Cisco Packet Tracer**, diseñé y configuré una red local (LAN) para una oficina con 3 departamentos. Para garantizar la **confidencialidad** de los datos, segmenté el tráfico mediante **VLANs** (redes virtuales) y configuré un **firewall perimetral (ACLs)** que controla quién puede comunicarse con quién dentro de la organización.
 
@@ -34,7 +34,7 @@ Utilizando **Cisco Packet Tracer**, diseñé y configuré una red local (LAN) pa
 
 ---
 
-### 🧠 ¿Por qué es importante?
+### ¿Por qué es importante?
 
 Este proyecto demuestra mi capacidad para **traducir un requisito legal en una configuración técnica**. La segmentación de la red no es solo una "buena práctica informática"; es una **medida técnica exigida por normativas internacionales**:
 
