@@ -13,27 +13,6 @@ Diseñar e implementar una arquitectura de red corporativa segura, aplicando el 
 
 Utilizando **Cisco Packet Tracer**, diseñé y configuré una red local (LAN) para una oficina con 3 departamentos. Para garantizar la **confidencialidad** de los datos, segmenté el tráfico mediante **VLANs** (redes virtuales) y configuré un **firewall perimetral (ACLs)** que controla quién puede comunicarse con quién dentro de la organización.
 
-**Arquitectura de la Red:**
-
-| Departamento | VLAN | Red IP | Clasificación de Datos |
-| :--- | :--- | :--- | :--- |
-| **Administración** | VLAN 10 | 192.168.10.0/24 | Alta Confidencialidad (Estrategia, Finanzas) |
-| **Ventas** | VLAN 20 | 192.168.20.0/24 | Confidencial (Base de datos de clientes) |
-| **Servidores Web** | VLAN 30 | 192.168.30.0/24 | Pública/Interna (Solo servicios web) |
-| **Recursos Humanos** | VLAN 40 | 192.168.40.0/24 | Muy Alta Confidencialidad (Nóminas, datos personales) |
-
-
-**Políticas de Seguridad Aplicadas (Firewall ACL 110):**
-
-| Origen | Destino | Acción | Justificación |
-| :--- | :--- | :--- | :--- |
-| Ventas (VLAN 20) | Administración (VLAN 10) | ❌ **Denegado** | Evita que el personal comercial acceda a información financiera y estratégica. |
-| RRHH (VLAN 40) | Ventas (VLAN 20) | ❌ **Denegado** | Protege los datos de nómina del acceso del equipo comercial y viceversa. |
-| Cualquier Red | Servidor Web (VLAN 30) | ✅ **Permitido (Solo HTTP)** | Permite la operativa de la página web corporativa, pero protege el servidor de ataques. |
-| Cualquier Red | Servidor Web (VLAN 30) | ❌ **Denegado (Ping, SSH, etc.)** | Bloquea cualquier otro intento de acceso al servidor (ping, SSH, FTP). |
-
----
-
 ### ¿Por qué es importante?
 
 Este proyecto demuestra mi capacidad para **traducir un requisito legal en una configuración técnica**. La segmentación de la red no es solo una "buena práctica informática"; es una **medida técnica exigida por normativas internacionales**:
@@ -68,17 +47,6 @@ Este proyecto demuestra mi capacidad para **traducir un requisito legal en una c
 
 📎 [Descargar Archivo de Simulación (.pkt)](./Proyecto-ciberseguridad.pkt)  
 *(Para visualizar la configuración en Cisco Packet Tracer).*
-
----
-
-## 📚 Formación Académica
-
-- **LICENCIATURA EN DERECHO** – Universidad Monteávila (2024)
-- **TÉCNICO EN INFORMÁTICA Y SEGURIDAD HOST** – Académica Labs (2026)
-- **PROGRAMA DE NEGOCIOS PARA GERENCIA** – Harvard Business School Online (2025)
-- **MAESTRÍA EN POLÍTICA EXTERIOR** – IAEDPG (En progreso)
-- **ESTUDIANTE TÉCNICO EN REDES IP Y CIBERSEGURIDAD** – Académica Labs y Social Oplesk (2026)  
-  *(Proyecto práctico: Diseño e implementación de arquitectura de red segmentada con firewall para cumplimiento normativo GDPR/NIS2/ISO 27001)*
 
 ---
 
