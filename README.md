@@ -1,6 +1,6 @@
 # Proyecto: Segmentación de Red para Cumplimiento Normativo 📖
 
-![Banner del Proyecto](bannerp.png)
+![Banner del Proyecto](bannery.png)
 
 ## por: Eleonor A.H. (@leonXxit0)
 
