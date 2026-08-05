@@ -63,25 +63,6 @@ Este proyecto demuestra mi capacidad para **traducir un requisito legal en una c
 
 ---
 
-## 🏆 Reconocimientos y Participaciones
-
-- **Reconocimiento por ICAC:** Ponencia internacional sobre la IA aplicada al Derecho (Perú, 2025).
-- **Reconocimiento por la Universidad de El Salvador:** Ponencia internacional "IA aplicada al Derecho" (El Salvador, 2025).
-
----
-
-### Artículos Publicados
-
-- **"IA: El Final Boss de la Geopolítica Moderna"**  
-  Análisis de normativa y política exterior de Estados Unidos y China en temas de desarrollo de la inteligencia artificial.  
-  [Leer más](https://chicasenrrii.com/ia-hegemonia-tecnologica-geopolitica/)
-
-- **"La Innovación Legal y la Inteligencia Artificial: ¿Cómo la Transformación Digital Puede Generar Discriminación Algorítmica y Vigilancia Masiva en el Sector Público?"**  
-  La digitalización con IA en el sector público y privado plantea riesgos de discriminación algorítmica y vigilancia masiva. Se aborda la necesidad de regulaciones que equilibren innovación y derechos humanos para una transformación digital justa y segura.  
-  [Leer más](https://www.researchgate.net/publication/390438188_LA_INNOVACION_LEGAL_Y_LA_INTELIGENCIA_ARTIFICIAL_COMO_LA_TRANFORMACION_DIGITAL_PUEDE_GENERAR_DISCRIMINACION_ALGORITMICA_Y_LA_VIGILANCIA_MASIVA_EN_EL_SECTOR_PUBLICO)
-
----
-
 ## 📬 Contacto
 
 📧 [elarhuaa@gmail.com](mailto:elarhuaa@gmail.com)
